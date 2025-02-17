@@ -1,8 +1,54 @@
-# React + Vite
+<!-- filepath: /home/lain/Documents/Github/cybersecurity-awareness-simulator/README.md -->
+# Cybersecurity Awareness Simulator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple simulation game to test and improve your ability to spot cybersecurity scams. In the game, you face daily scenarios and must decide whether each scenario is a scam or not. Your balance changes depending on your choices.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Interactive scenarios with realistic cybersecurity challenges.
+- Live balance tracking.
+- A simple start screen and game interface.
+- Feedback for each decision to help you learn from your choices.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/cybersecurity-awareness-simulator.git
+   cd cybersecurity-awareness-simulator
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+4. Open your browser and navigate to `http://localhost:3000` (or the port indicated in your terminal).
+
+## Usage
+
+- Click **Start Game** on the start screen.
+- For each scenario that appears, pick whether it's a **Scam** or **Not a Scam**.
+- Watch your balance change based on your decisions and learn from the provided feedback.
+- The game ends after 30 days of scenarios.
+
+## Contributing
+
+Feel free to submit issues or pull requests if you have ideas or improvements.
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Submit a pull request describing your changes.
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
