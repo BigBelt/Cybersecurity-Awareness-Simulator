@@ -40,14 +40,6 @@ A simple simulation game to test and improve your ability to spot cybersecurity 
 - Watch your balance change based on your decisions and learn from the provided feedback.
 - The game ends after 30 days of scenarios.
 
-## Contributing
-
-Feel free to submit issues or pull requests if you have ideas or improvements.
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them.
-4. Submit a pull request describing your changes.
 
 ## License
 
