@@ -14,7 +14,7 @@ A simple simulation game to test and improve your ability to spot cybersecurity 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/cybersecurity-awareness-simulator.git
+   git clone https://github.com/BigBelt/cybersecurity-awareness-simulator.git
    cd cybersecurity-awareness-simulator
    ```
 
