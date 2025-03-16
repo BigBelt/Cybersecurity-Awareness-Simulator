@@ -1,4 +1,4 @@
-#Phish Tester : A Cybersecurity Awareness Simulator#
+## Phish Tester : A Cybersecurity Awareness Simulator
 
 A simple simulation game to test and improve your ability to spot cybersecurity scams. In the game, you face daily scenarios and must decide whether each scenario is a scam or not. Your balance changes depending on your choices.
 
